@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score,MCC,Training Time (s)
+LightGBM,1.0,1.0,1.0,1.0,1.0,3.8439
+XGBoost,1.0,1.0,1.0,1.0,1.0,1.8487
+CatBoost,1.0,1.0,1.0,1.0,1.0,4.7094
